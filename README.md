@@ -1,6 +1,7 @@
 # CS-Notes
 ## LICENSE
-[CS-Notes](https://github.com/WhythZ/CS-Notes) © 2024 by [WhythZ](https://github.com/WhythZ) is licensed under [CC BY-NC-SA 4.0 ![](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)![](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg)![](https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg)![](https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+[CS-Notes](https://github.com/WhythZ/CS-Notes) © 2024 by [WhythZ](https://github.com/WhythZ) is licensed under [CC BY-NC-SA 4.0 ![](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)
+
 You're free to
 
 - ***Share***: copy and redistribute the material in any medium or format
