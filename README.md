@@ -1,6 +1,6 @@
 # CS-Notes
 ## LICENSE
-[CS-Notes](https://github.com/WhythZ/CS-Notes) © 2024 by [WhythZ](https://github.com/WhythZ) is licensed under [CC BY-NC-SA 4.0 ![](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)
+[CS-Notes](https://github.com/WhythZ/CS-Notes) © 2024 by [WhythZ](https://github.com/WhythZ) is licensed under [CC BY-NC-SA 4.0]
 
 You're free to
 
