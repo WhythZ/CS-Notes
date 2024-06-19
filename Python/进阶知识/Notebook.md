@@ -22,9 +22,9 @@ jupyter notebook
 # 2 软件包
 - 如果需要进行持久化安装, 需要使用持久化路径, 如下方代码示例
 ```Python
-#创建目录，用于存放额外的库或者依赖项
+# 创建目录，用于存放额外的库或者依赖项
 !mkdir /home/aistudio/external-libraries
-#-t选项指定了安装路径
+# -t选项指定了安装路径
 !pip install beautifulsoup4 -t /home/aistudio/external-libraries
 !pip install bs4
 ```
