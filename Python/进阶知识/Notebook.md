@@ -7,14 +7,15 @@ conda activate env_name
 ```
 conda install notebook
 ```
-- 然后切换到你的工程目录，若是在D盘则需要先切换盘符到D盘
+- 自此可以在vscode上使用，安装插件即可
+- 若是想在浏览器操作，切换到你的工程目录，若是在D盘则需要先切换盘符
 ```
-//切换盘符
+//切换盘符到D盘
 D:
 //切换到工程路径
 cd your_dir
 ```
-- 运行jupyter notebook即可，注意命令行需要保持开启，不然进程会被中断
+- 直接输入指令即可在浏览器使用notebook，命令行需要保持开启，不然进程会被中断
 ```
 jupyter notebook
 ```
